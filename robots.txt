@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esavuoga.github.io/FvI/sitemap_index.txt
+Sitemap: https://esavuoga.github.io/QjC/sitemap_index.txt
+Sitemap: https://esavuoga.github.io/afs/sitemap_index.txt
+Sitemap: https://esavuoga.github.io/brM/sitemap_index.txt
